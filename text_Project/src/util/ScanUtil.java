@@ -18,4 +18,8 @@ public class ScanUtil {
 			}
 		}
 	}
+	
+	public void  nextInts() {
+		
+	}
 }
