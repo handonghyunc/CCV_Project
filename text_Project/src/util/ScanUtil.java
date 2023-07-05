@@ -20,6 +20,6 @@ public class ScanUtil {
 	}
 	
 	public void  nextInts() {
-		
+		System.out.println("sdsdsasdadad");
 	}
 }
