@@ -34,7 +34,33 @@ public class Controller {
 //		sessionStorage.put("login", false);	// false: ·Î±×ÀÎ ¾ÈµÊ
 //		sessionStorage.put("loginInfo", null);
 		
-
+/*
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * lg;fg;lkf;sf;lg;sdfg;ldfg;sdf;lg;ldsg
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ */
 			
 		int view = View.HOME;
 		while(true) {
