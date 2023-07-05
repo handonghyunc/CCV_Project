@@ -21,5 +21,6 @@ public class ScanUtil {
 	
 	public void  nextInts() {
 		System.out.println("sdsdsasdadad");
+		System.out.println("ZEZE");
 	}
 }
