@@ -34,41 +34,14 @@ public class Controller {
 //		sessionStorage.put("login", false);	// false: 로그인 안됨
 //		sessionStorage.put("loginInfo", null);
 		
-/*
- * 
- * 
- * 
- * 
- * 
- * 
- * lg;fg;lkf;sf;lg;sdfg;ldfg;sdf;lg;ldsg
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- */
 			
 		int view = View.HOME;
 		while(true) {
 			switch (view) {
 			case View.HOME: view = home();	break;
-			case View.MEMBER_LOGIN: view = loginService.login(); break;
-		case View.MEMBER_SIGNUP: view = memberService.signUp(); break;
-			
+//			case View.MEMBER_LOGIN: view = loginService.login(); break;
+//		case View.MEMBER_SIGNUP: view = memberService.signUp(); break;
+//			
 			// 보드담당 팀원
 //			case View.BOARD_LIST: view = boardService.list(); break;
 //			case View.BOARD_DETAIL: view = boardService.detail(); break;

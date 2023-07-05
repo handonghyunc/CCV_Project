@@ -21,8 +21,8 @@ public class FreeBoardDAO {
 	// Controller > Service > Dao > Database
 	// Controller < Service < Dao < Database
 	
-	//public List<Map<String, Object>> list(){
-		//String sql = "SELECT * FROM BOARD";	// 쿼리를 만들어준다
-		//return jdbc.selectList(sql);
+	public List<Map<String, Object>> list(){
+		String sql = "SELECT * FROM BOARD";	// 쿼리를 만들어준다
+		return jdbc.selectList(sql);
 	}
-//}
+}
