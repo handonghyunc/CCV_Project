@@ -40,7 +40,7 @@ public class Controller {
 		while(true) {
 			switch (view) {
 			case View.HOME: view = home();	break;
-		//	case View.MEMBER_LOGIN: view = loginService.login(); break;
+			case View.MEMBER_LOGIN: view = loginService.login(); break;
 //			case View.MEMBER_SIGNUP: view = memberService.signUp(); break;
 			
 			// 보드담당 팀원
